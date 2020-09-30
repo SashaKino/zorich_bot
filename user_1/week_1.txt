@@ -1,2 +1,4 @@
-week_1
-
+| Task  | Status |
+| ----- | ------ |
+| 1     | DONE   |
+| 2     | TOLD   |
